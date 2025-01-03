@@ -2,7 +2,16 @@
 Exchange 信息收集工具
 
 
-## 使用方法
+
+
+## 使用方法（2025/01/03）
+更新终端彩色输出  
+
+![image](1.png)
+
+
+![image](2.png)
+
 
 ![image](https://github.com/user-attachments/assets/405cf2f1-1503-4355-a321-773667725cae)
 
